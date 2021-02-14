@@ -8,7 +8,7 @@ I'm also actively seeking a job in software development; so, if you think we're 
 In exchange, I post around some simple, and some more complex, programs I have developed over the last year or so - I hope you'll find them useful.
 - 📫 Drop me a message at any time or contact me through the options below: 
 
-E-mail> oliver.altaras@gmail.com
+E-mail> oliver.altaras@gmail.com |
 Check me on LinkedIn> https://www.linkedin.com/in/oliver-kovacevich-altaras-software-developer
 
 
